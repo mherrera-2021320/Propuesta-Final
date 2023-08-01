@@ -91,7 +91,7 @@ export const AboutPage = () => {
             <div className="col-lg-3 col-md-4 col-sm-6 pb-1">
               <div className="team-item bg-white mb-4">
                 <div className="team-img position-relative overflow-hidden">
-                  <img className="img-fluid w-100" src="./src/assets/img/team-3.jpg" alt="" />
+                  <img className="img-fluid w-100" src="./src/assets/img/team-4.jpg" alt="" />
                   <div className="team-social">
                     <a className="btn btn-outline-primary btn-square" href="https://www.instagram.com/everyonehates_andres/"><i className="fab fa-instagram"></i></a>
                     <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-linkedin-in"></i></a>
@@ -106,7 +106,7 @@ export const AboutPage = () => {
             <div className="col-lg-3 col-md-4 col-sm-6 pb-1">
               <div className="team-item bg-white mb-4">
                 <div className="team-img position-relative overflow-hidden">
-                  <img className="img-fluid w-100" src="./src/assets/img/team-4.jpg" alt="" />
+                  <img className="img-fluid w-100" src="./src/assets/img/team-3.jpg" alt="" />
                   <div className="team-social">
                     <a className="btn btn-outline-primary btn-square" href="https://www.instagram.com/ostyn_993/"><i className="fab fa-instagram"></i></a>
                     <a className="btn btn-outline-primary btn-square" href="https://www.linkedin.com/in/ostynguerra"><i className="fab fa-linkedin-in"></i></a>
