@@ -79,7 +79,7 @@ export const AboutPage = () => {
                   <img className="img-fluid w-100" src="./src/assets/img/team-2.jpg" alt="" />
                   <div className="team-social">
                     <a className="btn btn-outline-primary btn-square" href="https://www.instagram.com/sserg_03/"><i className="fab fa-instagram"></i></a>
-                    <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-linkedin-in"></i></a>
+                    <a className="btn btn-outline-primary btn-square" href="https://www.linkedin.com/in/sergio-undefined-192b05282/"><i className="fab fa-linkedin-in"></i></a>
                   </div>
                 </div>
                 <div className="text-center py-4">
@@ -109,7 +109,7 @@ export const AboutPage = () => {
                   <img className="img-fluid w-100" src="./src/assets/img/team-4.jpg" alt="" />
                   <div className="team-social">
                     <a className="btn btn-outline-primary btn-square" href="https://www.instagram.com/ostyn_993/"><i className="fab fa-instagram"></i></a>
-                    <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-linkedin-in"></i></a>
+                    <a className="btn btn-outline-primary btn-square" href="https://www.linkedin.com/in/ostynguerra"><i className="fab fa-linkedin-in"></i></a>
                   </div>
                 </div>
                 <div className="text-center py-4">

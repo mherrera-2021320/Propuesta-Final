@@ -9,9 +9,9 @@ export const HeadPage = () => {
                     <div className="row">
                         <div className="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
                             <div className="d-inline-flex align-items-center">
-                                <p><i className="fa fa-envelope mr-2"></i>info@example.com</p>
+                                <p><i className="fa fa-envelope mr-2"></i>recorretuciudad@gmail.com</p>
                                 <p className="text-body px-3">|</p>
-                                <p><i className="fa fa-phone-alt mr-2"></i>+012 345 6789</p>
+                                <p><i className="fa fa-phone-alt mr-2"></i>+502 2598 6845</p>
                             </div>
                         </div>
                         <div className="col-lg-6 text-center text-lg-right">
@@ -41,7 +41,7 @@ export const HeadPage = () => {
                 <nav className="navbar bg-body-tertiary">
                     <div className="container-fluid">
                         <a className="navbar-brand"> </a>
-                        <h1 className="text-primary"><span className="text-black">Rincones de M</span>i Ciudad</h1>
+                        <h1 className="text-primary"><span className="text-black">Explorando M</span>i Ciudad</h1>
                     </div>
                 </nav>
             </div>

@@ -25,7 +25,7 @@ export const PiePag = () => {
                     <div className="col-lg-3 col-md-6 mb-5">
                         <h5 className="text-white text-uppercase mb-4" >Principal Patrocinador</h5>
                         <div className=" d-flex flex-column justify-content-start text-white ">
-                            <a href="" className='text-white'>- Instituto Tenico Fundacion Kinal</a>
+                            <a href="https://www.kinal.org.gt" className='text-white'>- Instituto Tenico Fundacion Kinal</a>
                             <img src="./src/assets/img/kinal_v.png" alt="" />
                         </div>
                     </div>
@@ -33,8 +33,8 @@ export const PiePag = () => {
                     <hr />
                     <div className="col-lg-3 col-md-6 mb-5">
                         <h5 className="text-white text-uppercase mb-4" >Contactanos</h5>
-                        <p><i className="fa fa-phone-alt mr-2"></i>+012 345 67890</p>
-                        <p><i className="fa fa-envelope mr-2"></i>info@example.com</p>
+                        <p><i className="fa fa-phone-alt mr-2"></i>+502 2598 6845</p>
+                        <p><i className="fa fa-envelope mr-2"></i>recorretuciudad@gmail.com</p>
                         <div className="w-100">
                         </div>
                     </div>
