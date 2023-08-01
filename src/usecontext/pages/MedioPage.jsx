@@ -97,7 +97,7 @@ export const MedioPage = () => {
                         <div className="col-lg-6 pt-5 pb-lg-5">
                             <div className="about-text bg-white p-4 p-lg-5 my-lg-5">
                                 <h6 className="text-primary text-uppercase" >Porque lo Hacemos ?</h6>
-                                <p> El propósito de este proyecto esta centrado enpersonas de todo el mundo, incluso en las de Guatemala, ya que hay muchas personas quienes no conocen los lugares mas concurridos y visitados, por lo tanto esto ayuda a que la gente tenga lugares donde ir para divertirse y explorar tan hermoso Pais. </p>
+                                <p> El propósito de este proyecto esta centrado enpersonas de todo el mundo, incluso en las de Guatemala, ya que hay muchas personas quienes no conocen los lugares mas concurridos y visitados, por lo tanto esto ayuda a que la gente tenga lugares donde ir para divertirse y explorar tan hermosa Ciudad. </p>
                                 <div className="row mb-4">
                                     <div className="col-6">
                                         <img className="img-fluid" src="./src/assets/img/about-1.jpg" alt="" />
@@ -116,14 +116,15 @@ export const MedioPage = () => {
                                             Patreon
                                         </a>
                                         Comparte en:
-                                        <a className="text-primary px-3" href="">
+                                        
+                                        <a className="text-primary px-3" href="https://es-la.facebook.com/">
+                                            <i className="fab fa-facebook-f"></i>
+                                        </a>
+                                        <a className="text-primary px-3" href="https://twitter.com/?lang=es">
                                             <i className="fab fa-twitter"></i>
                                         </a>
-                                        <a className="text-primary px-3" href="">
+                                        <a className="text-primary px-3" href="https://www.instagram.com/">
                                             <i className="fab fa-instagram"></i>
-                                        </a>
-                                        <a className="text-primary pl-3" href="">
-                                            <i className="fab fa-youtube"></i>
                                         </a>
                                     </div>
                                 </div>

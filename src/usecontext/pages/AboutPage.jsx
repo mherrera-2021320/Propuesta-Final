@@ -63,10 +63,8 @@ export const AboutPage = () => {
                 <div className="team-img position-relative overflow-hidden">
                   <img className="img-fluid w-100" src="./src/assets/img/team-1.jpg" alt="" />
                   <div className="team-social">
-                    <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-twitter"></i></a>
-                    <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-facebook-f"></i></a>
-                    <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-instagram"></i></a>
-                    <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-linkedin-in"></i></a>
+                    <a className="btn btn-outline-primary btn-square" href="https://www.instagram.com/muystein/"><i className="fab fa-instagram"></i></a>
+                    <a className="btn btn-outline-primary btn-square" href="https://www.linkedin.com/in/melvin-herrera-007b59282/"><i className="fab fa-linkedin-in"></i></a>
                   </div>
                 </div>
                 <div className="text-center py-4">
@@ -80,9 +78,7 @@ export const AboutPage = () => {
                 <div className="team-img position-relative overflow-hidden">
                   <img className="img-fluid w-100" src="./src/assets/img/team-2.jpg" alt="" />
                   <div className="team-social">
-                    <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-twitter"></i></a>
-                    <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-facebook-f"></i></a>
-                    <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-instagram"></i></a>
+                    <a className="btn btn-outline-primary btn-square" href="https://www.instagram.com/sserg_03/"><i className="fab fa-instagram"></i></a>
                     <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-linkedin-in"></i></a>
                   </div>
                 </div>
@@ -97,9 +93,7 @@ export const AboutPage = () => {
                 <div className="team-img position-relative overflow-hidden">
                   <img className="img-fluid w-100" src="./src/assets/img/team-3.jpg" alt="" />
                   <div className="team-social">
-                    <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-twitter"></i></a>
-                    <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-facebook-f"></i></a>
-                    <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-instagram"></i></a>
+                    <a className="btn btn-outline-primary btn-square" href="https://www.instagram.com/everyonehates_andres/"><i className="fab fa-instagram"></i></a>
                     <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-linkedin-in"></i></a>
                   </div>
                 </div>
@@ -114,9 +108,7 @@ export const AboutPage = () => {
                 <div className="team-img position-relative overflow-hidden">
                   <img className="img-fluid w-100" src="./src/assets/img/team-4.jpg" alt="" />
                   <div className="team-social">
-                    <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-twitter"></i></a>
-                    <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-facebook-f"></i></a>
-                    <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-instagram"></i></a>
+                    <a className="btn btn-outline-primary btn-square" href="https://www.instagram.com/ostyn_993/"><i className="fab fa-instagram"></i></a>
                     <a className="btn btn-outline-primary btn-square" href=""><i className="fab fa-linkedin-in"></i></a>
                   </div>
                 </div>

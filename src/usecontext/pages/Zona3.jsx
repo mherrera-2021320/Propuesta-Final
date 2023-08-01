@@ -6,14 +6,14 @@ export const Zona3 = () => {
             <div className="container-fluid py-5">
                 <div className="container pt-5 pb-3">
                     <div className="text-center mb-3 pb-3">
-                        <h6 className="text-primary text-uppercase" >Zona 1</h6>
-                        <h1>Tours & Travel Services</h1>
+                        <h6 className="text-primary text-uppercase" >Zona 3</h6>
+                        <h1>Lugares y Servicios de la Zona</h1>
                     </div>
 
                     <div className="row ">
                         <div className="col-lg-4 col-md-6 mb-4">
                             <div className="service-item bg-white text-center mb-2 py-5 px-4">
-                                <i className="fa fa-2x fa-route mx-auto mb-4"></i>
+                                <i className="fa fa-2x fa-regular fa-futbol mx-auto mb-4"></i>
                                 <h4 className="mb-2">Estadio Doroteo Guamuch Flores:</h4>
 
                                 <button type="button" className="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
@@ -30,7 +30,7 @@ export const Zona3 = () => {
                                             </div>
 
                                             <div className="text-center pb-4 ">
-                                                <img className="img-fluid mx-auto" src="https://www.guatemala.com/fotos/2021/03/parque-Ciudad-Nueva-885x500.jpg" />
+                                                <img className="img-fluid mx-auto" src="https://aprende.guatemala.com/wp-content/uploads/2022/02/Historia-del-cambio-de-nombre-del-estadio-Doroteo-Guamuch-Flores.jpg" />
                                                 <div className="testimonial-text bg-white p-4 mt-n5">
                                                     <p className="mt-5">El estadio más grande de Guatemala, donde se llevan a cabo eventos deportivos y conciertos..
                                                     </p>

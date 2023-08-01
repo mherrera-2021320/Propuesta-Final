@@ -6,8 +6,8 @@ export const Zona16 = () => {
             <div className="container-fluid py-5">
                 <div className="container pt-5 pb-3">
                     <div className="text-center mb-3 pb-3">
-                        <h6 className="text-primary text-uppercase" >Zona 1</h6>
-                        <h1>Tours & Travel Services</h1>
+                        <h6 className="text-primary text-uppercase" >Zona 16</h6>
+                        <h1>Lugares y Servicios de la Zona</h1>
                     </div>
 
                     <div className="row ">
@@ -29,7 +29,7 @@ export const Zona16 = () => {
                                                 <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                             </div>
                                             <div className="text-center pb-4 ">
-                                                <img className="img-fluid mx-auto" src="https://www.guatemala.com/fotos/2021/03/parque-Ciudad-Nueva-885x500.jpg" />
+                                                <img className="img-fluid mx-auto" src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/3f/64/bc/img-20180204-135257-largejpg.jpg?w=1200&h=-1&s=1g" />
                                                 <div className="testimonial-text bg-white p-4 mt-n5">
                                                     <p className="mt-5">
                                                     Paseo Cayalá es un lugar precioso, tranquilo y con suficiente lugar al aire libre para caminar y platicar tranquilo. 

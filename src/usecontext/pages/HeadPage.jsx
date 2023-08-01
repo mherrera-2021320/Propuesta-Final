@@ -16,19 +16,19 @@ export const HeadPage = () => {
                         </div>
                         <div className="col-lg-6 text-center text-lg-right">
                             <div className="d-inline-flex align-items-center">
-                                <a className="text-primary px-3" href="">
+                                <a className="text-primary px-3" href="https://es-la.facebook.com/">
                                     <i className="fab fa-facebook-f"></i>
                                 </a>
-                                <a className="text-primary px-3" href="">
+                                <a className="text-primary px-3" href="https://twitter.com/?lang=es">
                                     <i className="fab fa-twitter"></i>
                                 </a>
-                                <a className="text-primary px-3" href="">
+                                <a className="text-primary px-3" href="https://www.linkedin.com/feed/">
                                     <i className="fab fa-linkedin-in"></i>
                                 </a>
-                                <a className="text-primary px-3" href="">
+                                <a className="text-primary px-3" href="https://www.instagram.com/">
                                     <i className="fab fa-instagram"></i>
                                 </a>
-                                <a className="text-primary pl-3" href="">
+                                <a className="text-primary pl-3" href="https://www.youtube.com/">
                                     <i className="fab fa-youtube"></i>
                                 </a>
                             </div>
@@ -41,7 +41,7 @@ export const HeadPage = () => {
                 <nav className="navbar bg-body-tertiary">
                     <div className="container-fluid">
                         <a className="navbar-brand"> </a>
-                        <h1 className="text-primary"><span className="text-black">Explorando M</span>i Ciudad</h1>
+                        <h1 className="text-primary"><span className="text-black">Rincones de M</span>i Ciudad</h1>
                     </div>
                 </nav>
             </div>
@@ -68,9 +68,9 @@ export const HeadPage = () => {
                             </li>
                             
                             <li className="nav-item">
-                            <NavLink className={({ isActive }) => `nav-link ${isActive ? 'active' : ''}`}
-                                    to='/popular'>
-                                    Lugares Pupulares
+                                <NavLink className={({ isActive }) => `nav-link ${isActive ? 'active' : ''}`}
+                                    to='/populares'>
+                                    Lugares Populares
                                 </NavLink>
                             </li>
                             <li className="nav-item">

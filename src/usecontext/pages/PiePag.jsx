@@ -8,9 +8,9 @@ export const PiePag = () => {
                 <div className="row pt-5">
                     <div className="col-lg-3 col-md-6 mb-5">
                         <a href="" className="navbar-brand">
-                            <h1 className="text-primary"><span className="text-white">M</span>i Pais</h1>
+                            <h1 className="text-primary"><span className="text-white">M</span>i Ciudad</h1>
                         </a>
-                        <p>Sed ipsum clita tempor ipsum ipsum amet sit ipsum lorem amet labore rebum lorem ipsum dolor. No sed vero lorem dolor dolor</p>
+                        <p>"Sumérgete en un mundo de maravillas y experiencias inolvidables mientras descubres la fascinante diversidad de nuestros lugares turísticos, donde la majestuosidad de paisajes naturales se entrelaza con la rica herencia cultural y arquitectónica, creando un lienzo perfecto para vivir aventuras emocionantes y crear recuerdos para toda la vida."</p>
                         <h6 className="text-white text-uppercase mt-4 mb-3" >Follow Us</h6>
                         <div className="d-flex justify-content-start">
                             <a className="btn btn-outline-primary btn-square mr-2" href="#"><i className="fab fa-twitter"></i></a>

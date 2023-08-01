@@ -6,8 +6,8 @@ export const Zona2 = () => {
             <div className="container-fluid py-5">
                 <div className="container pt-5 pb-3">
                     <div className="text-center mb-3 pb-3">
-                        <h6 className="text-primary text-uppercase" >Zona 1</h6>
-                        <h1>Tours & Travel Services</h1>
+                        <h6 className="text-primary text-uppercase" >Zona 2</h6>
+                        <h1>Lugares y Servicios de la Zona</h1>
                     </div>
 
                     <div className="row ">

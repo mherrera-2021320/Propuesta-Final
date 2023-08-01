@@ -5,7 +5,6 @@ import { Link, NavLink } from "react-router-dom"
 export const LugaresPage = () => {
     return (
         < >
-
             <div className="container-fluid py-5">
                 <div className="container pt-5 pb-3">
                     <div className="text-center mb-3 pb-3">
@@ -26,7 +25,7 @@ export const LugaresPage = () => {
                                         <small className="m-0"><i className="fa fa-user text-primary mr-2"></i></small>
                                     </div>
                                     <div>
-                                        <u   className="h5 text-decoration-none">
+                                        <u className="h5 text-decoration-none">
                                             <NavLink className={({ isActive }) => `nav-link ${isActive ? 'active' : ''}`}
                                                 to='/lugares/zona1'>
                                                 Zona 1
@@ -35,7 +34,7 @@ export const LugaresPage = () => {
                                     </div>
                                     <div className="border-top mt-4 pt-4">
                                         <div className="d-flex justify-content-between">
-                                            <h6 className="m-0"><i className="fa fa-star text-primary mr-2"></i>4.5 <small>(250)</small></h6>
+                                            <h6 className="m-0"><i className="fa fa-star text-primary mr-2"></i></h6>
                                             <h5 className="m-0"></h5>
                                         </div>
                                     </div>
@@ -60,10 +59,7 @@ export const LugaresPage = () => {
                                         </u>
                                     </div>
                                     <div className="border-top mt-4 pt-4">
-                                        <div className="d-flex justify-content-between">
-                                            <h6 className="m-0"><i className="fa fa-star text-primary mr-2"></i>4.5 <small>(250)</small></h6>
-                                            <h5 className="m-0"></h5>
-                                        </div>
+
                                     </div>
                                 </div>
                             </div>
@@ -87,10 +83,7 @@ export const LugaresPage = () => {
                                         </u>
                                     </div>
                                     <div className="border-top mt-4 pt-4">
-                                        <div className="d-flex justify-content-between">
-                                            <h6 className="m-0"><i className="fa fa-star text-primary mr-2"></i>4.5 <small>(250)</small></h6>
-                                            <h5 className="m-0"></h5>
-                                        </div>
+
                                     </div>
                                 </div>
                             </div>
@@ -98,7 +91,7 @@ export const LugaresPage = () => {
 
                         <div className="col-lg-4 col-md-6 mb-4">
                             <div className="package-item bg-white mb-2">
-                                <img className="img-fluid" src="./src/assets/img/package-3.jpg" alt="" />
+                                <img className="img-fluid" src="./src/assets/img/package-4.jpg" alt="" />
                                 <div className="p-4">
                                     <div className="d-flex justify-content-between mb-3">
                                         <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i></small>
@@ -114,10 +107,7 @@ export const LugaresPage = () => {
                                         </u>
                                     </div>
                                     <div className="border-top mt-4 pt-4">
-                                        <div className="d-flex justify-content-between">
-                                            <h6 className="m-0"><i className="fa fa-star text-primary mr-2"></i>4.5 <small>(250)</small></h6>
-                                            <h5 className="m-0"></h5>
-                                        </div>
+
                                     </div>
                                 </div>
                             </div>
@@ -125,7 +115,7 @@ export const LugaresPage = () => {
 
                         <div className="col-lg-4 col-md-6 mb-4">
                             <div className="package-item bg-white mb-2">
-                                <img className="img-fluid" src="./src/assets/img/package-3.jpg" alt="" />
+                                <img className="img-fluid" src="./src/assets/img/package-5.jpg" alt="" />
                                 <div className="p-4">
                                     <div className="d-flex justify-content-between mb-3">
                                         <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i></small>
@@ -141,10 +131,7 @@ export const LugaresPage = () => {
                                         </u>
                                     </div>
                                     <div className="border-top mt-4 pt-4">
-                                        <div className="d-flex justify-content-between">
-                                            <h6 className="m-0"><i className="fa fa-star text-primary mr-2"></i>4.5 <small>(250)</small></h6>
-                                            <h5 className="m-0"></h5>
-                                        </div>
+
                                     </div>
                                 </div>
                             </div>
@@ -152,7 +139,7 @@ export const LugaresPage = () => {
 
                         <div className="col-lg-4 col-md-6 mb-4">
                             <div className="package-item bg-white mb-2">
-                                <img className="img-fluid" src="./src/assets/img/package-3.jpg" alt="" />
+                                <img className="img-fluid" src="./src/assets/img/package-12.jpg" alt="" />
                                 <div className="p-4">
                                     <div className="d-flex justify-content-between mb-3">
                                         <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i></small>
@@ -162,16 +149,13 @@ export const LugaresPage = () => {
                                     <div>
                                         <u className="h5 text-decoration-none">
                                             <NavLink className={({ isActive }) => `nav-link ${isActive ? 'active' : ''}`}
-                                                to='/lugares/zona5'>
+                                                to='/lugares/zona12'>
                                                 Zona 12
                                             </NavLink>
                                         </u>
                                     </div>
                                     <div className="border-top mt-4 pt-4">
-                                        <div className="d-flex justify-content-between">
-                                            <h6 className="m-0"><i className="fa fa-star text-primary mr-2"></i>4.5 <small>(250)</small></h6>
-                                            <h5 className="m-0"></h5>
-                                        </div>
+
                                     </div>
                                 </div>
                             </div>
@@ -179,7 +163,7 @@ export const LugaresPage = () => {
 
                         <div className="col-lg-4 col-md-6 mb-4">
                             <div className="package-item bg-white mb-2">
-                                <img className="img-fluid" src="./src/assets/img/package-3.jpg" alt="" />
+                                <img className="img-fluid" src="./src/assets/img/package-16.jpg" alt="" />
                                 <div className="p-4">
                                     <div className="d-flex justify-content-between mb-3">
                                         <small className="m-0"><i className="fa fa-map-marker-alt text-primary mr-2"></i></small>
@@ -196,7 +180,7 @@ export const LugaresPage = () => {
                                     </div>
                                     <div className="border-top mt-4 pt-4">
                                         <div className="d-flex justify-content-between">
-                                            <h6 className="m-0"><i className="fa fa-star text-primary mr-2"></i>4.5 <small>(250)</small></h6>
+                                            <h6 className="m-0"><i className="fa fa-star text-primary mr-2"></i></h6>
                                             <h5 className="m-0"></h5>
                                         </div>
                                     </div>
@@ -204,7 +188,7 @@ export const LugaresPage = () => {
                             </div>
                         </div>
 
-                        
+
 
                     </div>
                 </div>
